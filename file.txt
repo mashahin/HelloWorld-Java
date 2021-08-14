@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D6E9-D940
+
+ Directory of C:\Users\M. A. Shahin\Desktop\JavaProject1
+
+2021-08-14  01:02 AM    <DIR>          .
+2021-08-14  01:02 AM    <DIR>          ..
+2021-08-14  01:02 AM                 0 file.txt
+2021-08-14  12:58 AM               901 Hello.class
+2021-08-14  12:08 AM               164 Hello.java
+2021-08-14  12:52 AM               470 index.html
+               4 File(s)          1,535 bytes
+               2 Dir(s)  34,120,372,224 bytes free
